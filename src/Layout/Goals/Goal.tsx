@@ -9,6 +9,7 @@ function Goal(props: {bg: string[],h: string, p: string, reverseGrid?: boolean, 
       ${props.twRow ? props.twRow : ""}`}>
 
 <LazyLoadImage
+        src={props.bg[0]}
         srcSet={`${props.bg[0]} 750w,
                  ${props.bg[1]} 720w`}
         sizes="(max-width: 768px) 750px,

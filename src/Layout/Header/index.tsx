@@ -58,7 +58,8 @@ function Header() {
     {/* Header Content */}
     <h1 className="uppercase text-3xl font-fraunces font-black tracking-[0.25rem] mb-[10%]">We are creatives</h1>
     <a className="mb-[40%] block sm:mb-[25%]" href="#goals">
-      <LazyLoadImage src={arrowImage} className="mx-auto" />
+      <span className="sr-only">scroll to goals section</span>
+      <LazyLoadImage src={arrowImage} alt="scroll down arrow" className="mx-auto" />
     </a>
   </header>);
 }

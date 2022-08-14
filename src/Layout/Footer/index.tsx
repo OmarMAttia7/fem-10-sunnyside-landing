@@ -13,10 +13,22 @@ function Footer() {
         <a className="active:text-white" href="#gallery">Projects</a>
       </div>
       <div className="flex justify-center">
-        <a className="ml-4 active:text-white" href="./"><LazyLoadImage src={iconFacebook} /></a>
-        <a className="ml-4 active:text-white" href="./"><LazyLoadImage src={iconInstagram} /></a>
-        <a className="ml-4 active:text-white" href="./"><LazyLoadImage src={iconTwitter} /></a>
-        <a className="ml-4 active:text-white" href="./"><LazyLoadImage src={iconPinterest} /></a>
+        <a className="ml-4 active:text-white" href="./">
+          <span className="sr-only">Facebook</span>
+          <LazyLoadImage src={iconFacebook} />
+        </a>
+        <a className="ml-4 active:text-white" href="./">
+          <span className="sr-only">Instagram</span>
+          <LazyLoadImage src={iconInstagram} />
+        </a>
+        <a className="ml-4 active:text-white" href="./">
+          <span className="sr-only">Twitter</span>
+          <LazyLoadImage src={iconTwitter} />
+        </a>
+        <a className="ml-4 active:text-white" href="./">
+          <span className="sr-only">Pinterest</span>
+          <LazyLoadImage src={iconPinterest} />
+        </a>
       </div>
     </footer>
   );
