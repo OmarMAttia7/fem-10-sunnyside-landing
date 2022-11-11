@@ -15,34 +15,6 @@ function App() {
       <Gallery />
     </main>
     <Footer />
-  {/*
-
-  
-  
-
-  Client testimonials
-
-  
-  Emily R.
-  Marketing Director
-
-  
-  Thomas S.
-  Chief Operating Officer
-
-  
-  Jennie F.
-  Business Owner
-
-  About
-  Services
-  Projects
-  Contact
-
-  <div className="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div> */}
   </>
   );
 }
