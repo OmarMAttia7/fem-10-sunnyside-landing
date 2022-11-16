@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://hazel79.github.io/frontend-mentor-challenges/10-sunnyside-landing)
+- Live Site URL: [omarmattia7.github.io](https://omarmattia7.github.io/frontend-mentor-challenges/10-sunnyside-landing)
 
 ## My process
 
