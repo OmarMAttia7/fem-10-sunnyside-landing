@@ -54,4 +54,4 @@ In my future projects I want to import all images in a single file and import th
 
 ## Attributions
 
-- Mockup by denamorado on Freepik (https://www.freepik.com/free-psd/digital-devices-screen-editable_32084754.htm#query=responsive%20website%20mockup&position=1&from_view=keyword)
+- [Mockup by denamorado on Freepik](https://www.freepik.com/free-psd/digital-devices-screen-editable_32084754.htm#query=responsive%20website%20mockup&position=1&from_view=keyword)
